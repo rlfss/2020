@@ -287,3 +287,8 @@
 	path = OCA/mis-builder
 	url = git@github.com:OCA/mis-builder.git
 	branch = 12.0
+
+[submodule "OCA/margin-analysis"]
+	path = OCA/margin-analysis
+	url = git@github.com:OCA/margin-analysis.git
+	branch = 12.0
