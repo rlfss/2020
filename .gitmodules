@@ -62,3 +62,8 @@
 	path = OCA/connector
 	url = git@github.com:OCA/connector.git
 	branch = 12.0
+
+[submodule "OCA/multi-company"]
+	path = OCA/multi-company
+	url = git@github.com:OCA/multi-company.git
+	branch = 12.0
