@@ -292,3 +292,8 @@
 	path = OCA/margin-analysis
 	url = git@github.com:OCA/margin-analysis.git
 	branch = 12.0
+
+[submodule "it-projects-llc/misc-addons"]
+	path = it-projects-llc/misc-addons
+	url = git@github.com:it-projects-llc/misc-addons.git
+	branch = 12.0
