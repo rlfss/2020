@@ -282,3 +282,8 @@
 	path = OCA/l10n-usa
 	url = git@github.com:OCA/l10n-usa.git
 	branch = 12.0
+
+[submodule "OCA/mis-builder"]
+	path = OCA/mis-builder
+	url = git@github.com:OCA/mis-builder.git
+	branch = 12.0
