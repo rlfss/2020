@@ -257,3 +257,8 @@
 	path = OCA/data-protection
 	url = git@github.com:OCA/data-protection.git
 	branch = 12.0
+
+[submodule "OCA/connector-telephony"]
+	path = OCA/connector-telephony
+	url = git@github.com:OCA/connector-telephony.git
+	branch = 12.0
