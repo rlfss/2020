@@ -277,3 +277,8 @@
 	path = OCA/helpdesk
 	url = git@github.com:OCA/helpdesk.git
 	branch = 12.0
+
+[submodule "OCA/l10n-usa"]
+	path = OCA/l10n-usa
+	url = git@github.com:OCA/l10n-usa.git
+	branch = 12.0
