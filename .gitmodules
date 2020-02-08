@@ -303,26 +303,6 @@
 	url = git@github.com:OCA/knowledge.git
 	branch = 12.0
 
-[submodule "mtc-jordan/hotel_management_v1"]
-	path = mtc-jordan/hotel_management_v1
-	url = git@github.com:mtc-jordan/hotel_management_v1.git
-	branch = master
-
-[submodule "marionumza/mtc-jordan-flexipharmacy-odoo"]
-	path = marionumza/mtc-jordan-flexipharmacy-odoo
-	url = git@github.com:marionumza/mtc-jordan-flexipharmacy-odoo.git
-	branch = master
-
-[submodule "mtc-jordan/odoo-12.0-pharmacy"]
-	path = mtc-jordan/odoo-12.0-pharmacy
-	url = git@github.com:mtc-jordan/odoo-12.0-pharmacy.git
-	branch = master
-
-[submodule "ingadhoc/multi-company"]
-	path = ingadhoc/multi-company
-	url = git@github.com:ingadhoc/multi-company.git
-	branch = 12.0
-
 [submodule "rlfss/2020"]
 	path = rlfss/2020
 	url = git@github.com:rlfss/2020.git
