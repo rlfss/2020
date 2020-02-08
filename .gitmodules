@@ -307,3 +307,8 @@
 	path = mtc-jordan/flexipharmacy-odoo
 	url = git@github.com:mtc-jordan/flexipharmacy-odoo.git
 	branch = master
+
+[submodule "mtc-jordan/flexipharmacy-2"]
+	path = mtc-jordan/flexipharmacy-2
+	url = git@github.com:mtc-jordan/flexipharmacy-2.git
+	branch = master
