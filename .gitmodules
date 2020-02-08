@@ -1,0 +1,4 @@
+[submodule "rlfss/2020"]
+	path = rlfss/2020
+	url = git@github.com:rlfss/2020.git
+	branch = copy_from_work
