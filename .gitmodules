@@ -317,3 +317,8 @@
 	path = mtc-jordan/odoo-12.0-pharmacy
 	url = git@github.com:mtc-jordan/odoo-12.0-pharmacy.git
 	branch = master
+
+[submodule "ingadhoc/multi-company"]
+	path = ingadhoc/multi-company
+	url = git@github.com:ingadhoc/multi-company.git
+	branch = 12.0
