@@ -307,3 +307,8 @@
 	path = mtc-jordan/hotel_management_v1
 	url = git@github.com:mtc-jordan/hotel_management_v1.git
 	branch = master
+
+[submodule "marionumza/mtc-jordan-flexipharmacy-odoo"]
+	path = marionumza/mtc-jordan-flexipharmacy-odoo
+	url = git@github.com:marionumza/mtc-jordan-flexipharmacy-odoo.git
+	branch = master
